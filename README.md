@@ -30,6 +30,10 @@ Data Scientist – Responsible for Data Analysis, Model Selection, Model Fine-tu
 - Employed Causal Inference using Propensity Score Matching (PSM) to isolate the effect of gender on pay.
 - Utilized a Monte Carlo Simulation Model to evaluate outcomes and risks associated with different intervention strategies.
 
+  **Tools/Technologies/Methodologies**
+- Python, sklearn, statsmodels
+- Causal Inference Modeling, Monte Carlo Simulation
+
 **Impact**  
 Findings were presented to the HR Leadership team and subsequently incorporated into their strategic planning slides
 
