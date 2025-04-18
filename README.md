@@ -12,6 +12,27 @@
 - “Rapid Gen AI Platform” concept, leveraging reusable infrastructure to achieve quick Gen AI deployment with ~50% cost reductions; won Siemens Ideation challenge.
 
 ### Senior Data Scientist, Boston Consulting Group (08/2021–07/2023)
+
+#### **GENDER BIAS PRESCRIPTIVE ANALYSIS**
+
+**Project Background**  
+The organization seeks measurable ways to identify and address gender bias issues in pay. The objective is to determine actionable interventions that reduce bias and foster inclusivity while ensuring that their effectiveness is validated before full-scale implementation.
+
+**Goal**  
+- Use advanced statistical models to identify whether any gender bias exists in pay.
+- If a bias is found, propose possible intervention strategies based on a data-driven approach.
+
+**Roles & Responsibilities**  
+Data Scientist – Responsible for Data Analysis, Model Selection, Model Fine-tuning, Interpretation of Results, and Data Storytelling.
+
+**Solution Concept**  
+- Performed advanced data processing and analysis, including correlation analysis, cleaning, and data transformation.
+- Employed Causal Inference using Propensity Score Matching (PSM) to isolate the effect of gender on pay.
+- Utilized a Monte Carlo Simulation Model to evaluate outcomes and risks associated with different intervention strategies.
+
+**Impact**  
+Findings were presented to the HR Leadership team and subsequently incorporated into their strategic planning slides
+
 - Built end-to-end Data pipeline for DWER Australia for seamless Data Migration & Data Integration on AWS.
 - Developed an Agglomerative Hierarchical Clustering Model for conducting Environment Impact Assessment, expediting Project Approval process, recommending mitigation strategies; significantly reducing approval timelines by weeks.
 - Implemented a scalable Light GBM Classification model to effectively reduce Return Rate and Optimize the Supply Chain operations at PepsiCo, facilitated the development of targeted intervention strategies, resulting in a downward trend in return rates.
