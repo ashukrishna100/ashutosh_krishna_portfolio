@@ -1,5 +1,5 @@
-# <span style="color:blue">Ashutosh Krishna</span>
-## <span style="color:blue">Generative AI Professional| Data Scientist |Corporate Innovation</span>
+# <span style="color:#333333">Ashutosh Krishna</span>
+## <span style="color:#333333">Generative AI || Data Scientist  || Corporate Innovation</span>
 
 ## Work Experience
 
