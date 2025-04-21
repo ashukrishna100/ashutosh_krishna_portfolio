@@ -13,7 +13,8 @@
 
 ### Senior Data Scientist, Boston Consulting Group (08/2021–07/2023)
 
-#### **GENDER BIAS PRESCRIPTIVE ANALYSIS**
+
+#### <span style="color:#1a1a8c">**GENDER BIAS PRESCRIPTIVE ANALYSIS**</span>
 
 **Project Background**  
 The organization seeks measurable ways to identify and address gender bias issues in pay. The objective is to determine actionable interventions that reduce bias and foster inclusivity while ensuring that their effectiveness is validated before full-scale implementation.
@@ -30,7 +31,7 @@ Data Scientist – Responsible for Data Analysis, Model Selection, Model Fine-tu
 - Employed Causal Inference using Propensity Score Matching (PSM) to isolate the effect of gender on pay.
 - Utilized a Monte Carlo Simulation Model to evaluate outcomes and risks associated with different intervention strategies.
 
-  **Tools/Technologies/Methodologies**
+**Tools/Technologies/Methodologies**
 - Python, sklearn, statsmodels
 - Causal Inference Modeling, Monte Carlo Simulation
 
