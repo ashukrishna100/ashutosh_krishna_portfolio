@@ -1,5 +1,5 @@
 # <span style="color:#333333">Ashutosh Krishna</span>
-## <span style="color:#333333">Generative AI || Data Scientist  || Corporate Innovation</span>
+### <span style="color:#333333">Data Scientist ||Generative AI ||Corporate Innovation</span>
 
 ## Work Experience
 
@@ -14,7 +14,7 @@
 ### Senior Data Scientist, Boston Consulting Group (08/2021–07/2023)
 
 
-#### <span style="color:#1a1a8c">**GENDER BIAS PRESCRIPTIVE ANALYSIS**</span>
+#### <span style="color:#555555; text-decoration:underline">**GENDER BIAS PRESCRIPTIVE ANALYSIS**</span>
 
 **Project Background**  
 The organization seeks measurable ways to identify and address gender bias issues in pay. The objective is to determine actionable interventions that reduce bias and foster inclusivity while ensuring that their effectiveness is validated before full-scale implementation.
